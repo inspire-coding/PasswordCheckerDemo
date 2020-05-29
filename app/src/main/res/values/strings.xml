@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration Password Check</string>
+    <string name="email_title">Email</string>
+    <string name="email_hint_title">Email address</string>
+    <string name="password_title">Password</string>
+    <string name="password_items_title">Password should be</string>
+    <string name="p_item_1">At least 8 characters</string>
+    <string name="p_item_2">Minimum one uppercase</string>
+    <string name="p_item_3">Minimum one number</string>
+    <string name="p_item_4">Minimum one symbol</string>
+    <string name="email_error_text">The field is required</string>
+    <string name="registration_title">REGISTRATION</string>
+</resources>

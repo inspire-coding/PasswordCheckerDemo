@@ -1,0 +1,2 @@
+rootProject.name='PasswordCheckerDemo'
+include ':app'
